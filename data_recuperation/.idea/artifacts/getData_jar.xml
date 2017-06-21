@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="getData:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/getData_jar</output-path>
+    <root id="archive" name="getData.jar">
+      <element id="module-output" name="getData" />
+    </root>
+  </artifact>
+</component>
